@@ -205,10 +205,4 @@ with col_inf2:
     - Export to CSV and JSON for downstream use
     """)
 
-# ============================================================
-# FOOTER
-# ============================================================
-st.markdown("---")
-st.caption("Built by OpenClaw — Data Pipeline Infrastructure")
-
 session.close()
